@@ -1,0 +1,14 @@
+{
+  "name": "meu-caderno-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Meu caderno para PC (Tauri)",
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "tauri dev",
+    "build": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  }
+}
